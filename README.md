@@ -3,7 +3,7 @@
 user@DESKTOP-14530KF MINGW64 ~/Desktop/test/DockerTest/DockerTest (master)
 $ docker build --tag hyungdon/nginx_ubuntu .
 ```
-## Docker Image run
+## Docker Image 실행 방법 (윈도우10 프로)
 ```
 user@DESKTOP-14530KF MINGW64 ~/Desktop/test/DockerTest/DockerTest (master)
 $ winpty docker run -it --name nu1 -p 8888:80 hyungdon/nginx_ubuntu
@@ -41,4 +41,4 @@ Commercial support is available at
 </html>
 root@b0a129624a68:/etc/nginx#
 ```
-![image](./DockerTest/nginx run.png)
+![image](https://raw.githubusercontent.com/hyungdon-j/DockerTest/master/nginx run.png)
