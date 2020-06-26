@@ -18,6 +18,7 @@ $ chmod +x k8s.sh
 
 ```
 # k8s 실행 방법 
+ * ./k8s.sh <deploy명> 작성하여 동
 ```
 user@DESKTOP-14530KF MINGW64 ~/Desktop/test/DockerTest/DockerTest/k8s (master)
 $ ./k8s.sh mynginx2
