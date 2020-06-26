@@ -1,7 +1,7 @@
 
 # k8s 파일 내용
  * docker 에서 구동한 이미지 (kubectl run mynginx --image=hyungdon/nginx_ubuntu --port=80)
- 를 port 80으로 서비스 
+ 를 서비스 포트 80으로 구동 
 ```
 user@DESKTOP-14530KF MINGW64 ~/Desktop/test/DockerTest/DockerTest/k8s (master)
 $ cat k8s.sh
