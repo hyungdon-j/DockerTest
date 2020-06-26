@@ -1,4 +1,8 @@
 ## Ubuntu nginx build : hyungdon/nginx_ubuntu
+
+ * curl install
+ * nginx install
+ * nginx start
 ```
 user@DESKTOP-14530KF MINGW64 ~/Desktop/test/DockerTest/DockerTest (master)
 $ docker build --tag hyungdon/nginx_ubuntu .
