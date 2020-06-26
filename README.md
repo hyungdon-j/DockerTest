@@ -41,5 +41,5 @@ Commercial support is available at
 </html>
 root@b0a129624a68:/etc/nginx#
 ```
-#### 실행결과 이
+#### 실행결과 웹사이트 접속 화면
 ![image](https://raw.githubusercontent.com/hyungdon-j/DockerTest/master/nginx_run.png)
