@@ -1,0 +1,1 @@
+kubectl expose deployment/mynginx --type="NodePort" --port 80
