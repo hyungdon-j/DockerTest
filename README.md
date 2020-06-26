@@ -41,4 +41,4 @@ Commercial support is available at
 </html>
 root@b0a129624a68:/etc/nginx#
 ```
-![이미지](./DockerTest/nginx run.png)
+![image](./DockerTest/nginx run.png)
